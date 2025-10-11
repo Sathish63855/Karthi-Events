@@ -7,7 +7,7 @@ const Sidebar = ({ isOpen, onClose }) => {
       <div className={`sidebar-overlay ${isOpen ? 'active' : ''}`} onClick={onClose}></div>
       <div className={`sidebar ${isOpen ? 'open' : ''}`}>
         <div className="sidebar-header">
-          <h3>Elite Events</h3>
+          <h3>Karthi Events</h3>
           <button className="close-btn" onClick={onClose}>×</button>
         </div>
         <div className="sidebar-content">
