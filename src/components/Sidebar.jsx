@@ -21,38 +21,6 @@ const Sidebar = ({ isOpen, onClose }) => {
               Admin Panel
             </Link>
           </nav>
-          
-          {/* <div className="contact-info">
-            <h4>📞 Contact Us</h4>
-            <div className="contact-item">
-              <span className="contact-icon">📍</span>
-              <div>
-                <p>123 Event Street</p>
-                <p>City, State 12345</p>
-              </div>
-            </div>
-            <div className="contact-item">
-              <span className="contact-icon">📱</span>
-              <div>
-                <p>+1 (555) 123-4567</p>
-                <p>+1 (555) 987-6543</p>
-              </div>
-            </div>
-            <div className="contact-item">
-              <span className="contact-icon">✉️</span>
-              <div>
-                <p>info@eliteevents.com</p>
-                <p>bookings@eliteevents.com</p>
-              </div>
-            </div>
-            <div className="contact-item">
-              <span className="contact-icon">⏰</span>
-              <div>
-                <p>Mon-Sun: 9:00 AM - 9:00 PM</p>
-                <p>Emergency: 24/7 Available</p>
-              </div>
-            </div>
-          </div> */}
         </div>
       </div>
     </>
